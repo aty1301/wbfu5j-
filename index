@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="img/resume/shiba.png" type="image/x-icon">
-    <title>林暐倫的個人履歷</title>
+    <title>李奇竣的個人履歷</title>
     <style>
         #s1{
             background-color: #F0E5B4;
@@ -17,7 +17,7 @@
 </head>
 <body style="background-color: blanchedalmond;">
     <div id = "s1">
-        <h1>林暐倫 <br> LIN WEI-LUN</h1>
+        <h1>李奇竣 <br> LIN WEI-LUN</h1>
         <img src="img/resume/11011119.jpg" alt="" width="250px">
        
 
