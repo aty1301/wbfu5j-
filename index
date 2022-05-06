@@ -23,33 +23,29 @@
 
 <hr> <hr/>
         <hr>
-        <p>凡事經過嘗試才可以說我盡力了</p>
+        <p>拼命努力不如找到方法，找到方法不如找到目標</p>
         <hr>
         <h2>作品集:</h2>
         <ul>
-          <li><a href="html01.html">HTML基礎練習</a></li>
-          <li><a href="css01.html">CSS基礎練習-行內樣式表</a></li>
-          <li><a href="css02.html">CSS基礎練習-內部樣式表</a></li>
-          <li><a href="css03.html">CSS基礎練習-外部樣式表</a></li>
-          <li><a href="css-basic.html">CSS基礎練習-基礎樣式表</a></li>
+          <li><a href="html1.html">HTML基礎練習</a></li>
+          <li><a href="css1.html">CSS基礎練習-行內樣式表</a></li>
+          <li><a href="css2.html">CSS基礎練習-內部樣式表</a></li>
+          <li><a href="css3.html">CSS基礎練習-外部樣式表</a></li>
+          <li><a href="css-basice.html">CSS基礎練習-基礎樣式表</a></li>
           <li><a href="https://www.figma.com/proto/3tRixxIgHvR7YSbk4RVUcD/%E6%9C%9F%E4%B8%AD%E5%A0%B1%E5%91%8A(%E5%80%8B%E4%BA%BA%E5%B1%A5%E6%AD%B7)?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2">Figma</a></li>
         </ul>
 
 <h2>學歷</h2>
         <ul>
-            <li><a href="https://www.anhoes.ntpc.edu.tw/nss/p/index">新北市土城區安和國民小學</a></li>
-            <li><a href="https://www.cssh.ntpc.edu.tw/app/home.php">新北市立清水高級中學國中部</a></li>
+            <li><a href="https://www.meps.tp.edu.tw">台北市中正區國語實驗國民小學</a></li>
+            <li><a href="http://www.htjh.tp.edu.tw/bin/home.php">台北市中正區弘道國民中學</a></li>
             <li><a href="https://www.ntvs.ntpc.edu.tw/">新北市立新北高級工業職業學校</a></li>
             <li><a href="https://www.aeust.edu.tw/">亞東科技大學</a></li>
         </ul>
         
 <h2>證照</h2>
-        <p>電腦軟體應用 丙級</p>
-        <img src="img/resume/電軟.jpg" alt="電腦軟體應用 丙級" width="330px">
-        <p>網頁設計應用 丙級</p>
-        <img src="img/resume/網設.jpg" alt="網頁設計應用 丙級" width="330px">
-    
-<h2>功課表</h2>
+        
+<h2>課表</h2>
     
 <table width = "800px"height="700px"class="table">
 
@@ -67,40 +63,40 @@
               <td>第一節</td>
               <td></td>
               <td></td>
-              <td>英文</td>
+              <td>系統分析與設計</td>
               <td>進階程式設計</td>
-              <td></td>
-              <td>法律與生活</td>
+              <td>資料庫</td>
+              <td>體育</td>
               <td></td>
             </tr>
             <tr>
               <td>第二節</td>
               <td></td>
-              <td>經濟學</td>
-              <td>英文</td>
+              <td></td>
+              <td>系統分析與設計</td>
               <td>進階程式設計</td>
-              <td>資訊管理導論</td>
-              <td>法律與生活</td>
+              <td>資料庫</td>
+              <td>體育</td>
               <td></td>
             </tr>
             <tr>
               <td>第三節</td>
               <td></td>
-              <td>經濟學</td>
-              <td>國文</td>
               <td></td>
-              <td>資訊管理導論</td>
-              <td>體育</td>
+              <td>系統分析與設計</td>
+              <td>統計學</td>
+              <td>資料庫</td>
+              <td></td>
               <td></td>
             </tr>
             <tr>
               <td>第四節</td>
               <td></td>
-              <td>經濟學</td>
-              <td>國文</td>
               <td></td>
-              <td>資訊管理導論</td>
-              <td>體育</td>
+              <td>系統分析與設計</td>
+              <td>統計學</td>
+              <td>資料庫</td>
+              <td></td>
               <td></td>
             </tr>
             <tr>
@@ -109,7 +105,7 @@
               <td>進階程式設計</td>
               <td>網頁設計</td>
               <td></td>
-              <td></td>
+              <td>應用英文</td>
               <td></td>
               <td></td>
             </tr>
@@ -119,7 +115,7 @@
               <td>進階程式設計</td>
               <td>網頁設計</td>
               <td></td>
-              <td>會計學</td>
+              <td>應用英文</td>
               <td></td>
               <td></td>
             </tr>
@@ -129,8 +125,8 @@
               <td></td>
               <td>網頁設計</td>
               <td></td>
-              <td>會計學</td>
-              <td></td>
+              <td>當代文化</td>
+              <td>統計學</td>
               <td></td>
             </tr>
             <tr>
@@ -139,8 +135,8 @@
               <td></td>
               <td>網頁設計</td>
               <td></td>
-              <td>會計學</td>
-              <td></td>
+              <td>當代文化</td>
+              <td>統計學</td>
               <td></td>
             </tr>
           </table>
